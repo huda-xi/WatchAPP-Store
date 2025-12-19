@@ -117,7 +117,4 @@ dependencies:
 | -------- | ---------------------------------- |
 | Android  | ✅                                  |
 | iOS      | ✅                                  |
-| Web      | ⚙️ (requires small UI adjustments) |
-
-### مشاهدة عمل المشروع خطوه بخطوه علي اليوتيوب
-لينك الفيديو :https://youtu.be/NXMqjHiFl_M?si=UalQXtLaFv6kdFfa 
+| Web      | ⚙️ (requires small UI adjustments) | 
